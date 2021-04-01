@@ -35,4 +35,4 @@
 - Hiển thị: Màn hình LCD1602
 - Đèn trạng thái: Chớp tắt (Bluetooth), Sáng liên tục (AUX IN)
 
-### Sản phẩm hiện đang được bán trên Shopee
+### (Sản phẩm hiện đang được bán trên Shopee)
