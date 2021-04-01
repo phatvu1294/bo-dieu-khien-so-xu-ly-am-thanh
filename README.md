@@ -8,6 +8,8 @@
 - Hỗ trợ nguồn đầu vào AC/DC không lo cắm ngược
 - Hỗ trợ thêm remote điều khiển từ xa
 
+![Bộ điều khiển số xử lý âm thanh](/images/image-01.png)
+
 ### Thông số kỹ thuật
 - Điện áp đầu vào: 12V - 24V DC/AC
 - Dòng tiêu thụ: 40mA - 80mA
@@ -32,3 +34,5 @@
   + Remote điều khiển từ xa
 - Hiển thị: Màn hình LCD1602
 - Đèn trạng thái: Chớp tắt (Bluetooth), Sáng liên tục (AUX IN)
+
+### Sản phẩm hiện đang được bán trên Shopee
