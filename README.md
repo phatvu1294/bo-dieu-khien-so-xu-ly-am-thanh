@@ -36,6 +36,6 @@
 - Đèn trạng thái: Chớp tắt (Bluetooth), Sáng liên tục (AUX IN)
 
 ### Video demo sản phẩm
-[Video demo](https://www.youtube.com/watch?v=tggtqTw-atU&t=48s)
+[https://www.youtube.com/watch?v=tggtqTw-atU&t=48s](https://www.youtube.com/watch?v=tggtqTw-atU&t=48s)
 
 ### (Sản phẩm hiện đang được bán trên Shopee)
