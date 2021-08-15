@@ -1,4 +1,4 @@
-# Bộ điều khiển số xử lý âm thanh (public)
+# Bộ điều khiển số xử lý âm thanh
 *Bộ điều khiển số xử lý âm thanh được phát triển dựa trên STM32F103C8T6*
 
 ### Tính năng
